@@ -1,6 +1,6 @@
 streamlit
 groq
-pinecone-client
+pinecone
 sentence-transformers
 PyPDF2
 python-docx
