@@ -88,18 +88,6 @@ source venv/bin/activate    # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**Example `requirements.txt`:**
-
-```
-streamlit
-groq
-pinecone-client
-sentence-transformers
-PyPDF2
-python-docx
-textract
-```
-
 ---
 
 ## ▶️ Running the Application
